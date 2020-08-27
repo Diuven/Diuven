@@ -1,7 +1,13 @@
-### Hi there 👋
+### Younghun 'Diuven' Roh
+
+
+Readme under construction. 😅
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=Diuven)](https://solved.ac/Diuven) - From [mazassumnida](https://github.com/mazassumnida/mazassumnida)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Diuven)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**Diuven/Diuven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
